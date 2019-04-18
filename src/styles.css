@@ -1,7 +1,9 @@
+@import 'ag-grid-community/dist/styles/ag-grid.css';
+@import 'ag-grid-community/dist/styles/ag-theme-balham.css';
+
 body {
     margin: 0 auto;
     max-width: 1000px;
-    background: url('assets/img/sandbox.png') no-repeat center;
     display: flex;
     flex-direction: column;
     height: 100%;
